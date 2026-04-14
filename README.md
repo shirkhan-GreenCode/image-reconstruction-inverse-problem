@@ -70,17 +70,18 @@ project/
 │ ├── tikhonov.png
 │ ├── wiener.png
 │ └── best_tikhonov.png
+
+
 ---
 
 ## Requirements
 
 Install dependencies:
 
-```bash
 pip install numpy scipy matplotlib scikit-image
 
 
- ## Running the Project
+## Running the Project
 
 python main.py
 
