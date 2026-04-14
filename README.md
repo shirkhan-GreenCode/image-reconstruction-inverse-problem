@@ -80,12 +80,12 @@ Install dependencies:
 pip install numpy scipy matplotlib scikit-image
 
 
-***Running the Project***
+ ## Running the Project
 
 python main.py
 
 
-Output
+## Output
 
 The project generates:
 
