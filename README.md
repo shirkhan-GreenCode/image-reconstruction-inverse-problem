@@ -70,8 +70,6 @@ project/
 │ ├── tikhonov.png
 │ ├── wiener.png
 │ └── best_tikhonov.png
-
-
 ---
 
 ## Requirements
